@@ -6,9 +6,9 @@ WORKDIR="/data/work/osmosis/"
 export JAVACMD_OPTIONS="-server -Xms1G -Xmx3G -XX:MaxPermSize=3G -Djava.io.tmpdir=/data/work/osmosis/tmp/"
 
 # postgresql database
-DATABASE="osmosis"
+DATABASE="osm"
 USER="osmosis"
-PASS="osmosis"
+PASS="OOssmm00ss11ss"
 BOUNDING_BOX="all"
 
 # programs
